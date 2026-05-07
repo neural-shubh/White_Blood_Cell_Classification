@@ -1,2 +1,7 @@
-# White_Blood_Cell_Classification
-A CNN classification model that classifies between blood cells
+## Dataset
+
+Dataset used:
+BCCD Dataset
+
+Download from:
+https://www.kaggle.com/datasets/orvile/bccd-blood-cell-count-and-detection-dataset
